@@ -19,6 +19,6 @@ In order to asses the performance I set apart 5 images of each category. Results
 
 The "plot" image shows loss/accuracy for each epoch.
 
-We used 500 epochs and converted the images to grey-scale.
+I used 500 epochs and converted the images to grey-scale.
 
-We argue that better results would be possible if more images were given.
+I argue that better results would be possible if more images were given.
