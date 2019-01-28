@@ -1,5 +1,5 @@
 # General Information
-All fonts for ideas and code are described in the code file as comments. I've added also instructions on how to run the solutions.
+Source for ideas and code are described in the code file as comments. I've added also instructions on how to run the solutions.
 For each problem I added images with solutions by my programs.
 You might need to double check dependencies and compilations at your end in order to run my solutions.
 
